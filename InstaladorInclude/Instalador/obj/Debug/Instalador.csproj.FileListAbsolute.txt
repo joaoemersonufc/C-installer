@@ -1,0 +1,86 @@
+C:\Users\henri\source\repos\Instalador\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\henri\source\repos\Instalador\Instalador\bin\Debug\Instalador.exe
+C:\Users\henri\source\repos\Instalador\Instalador\bin\Debug\Instalador.pdb
+C:\Users\henri\source\repos\Instalador\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.csproj.CopyComplete
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.exe
+C:\Users\henri\source\repos\Instalador\Instalador\obj\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\bin\Debug\Instalador.exe
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\bin\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.csproj.CopyComplete
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.exe
+C:\Users\Dell\Desktop\Install,INCLUDE\Henrique_Lima-instalador-0a44ca2cfd65\Instalador\obj\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\bin\Debug\Instalador.exe
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\bin\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CopyComplete
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.exe
+C:\Users\Dell\Desktop\Install,INCLUDE\InstaladorInclude\Instalador\obj\Debug\Instalador.pdb
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\bin\Debug\Instalador.exe
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\bin\Debug\Instalador.pdb
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.csproj.CopyComplete
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.exe
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.pdb
+C:\Users\henri\Documents\Visual Projects\instaladorinclude\Instalador\obj\Debug\Instalador.Screen4.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\bin\Debug\Instalador.exe
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\bin\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen4.resources
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CopyComplete
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.exe
+C:\Users\Dell\Desktop\InstaladorInclude\Instalador\obj\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.exe
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen.resources
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen2.resources
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.Screen3.resources
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\bin\Debug\Instalador.exe.config
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\bin\Debug\Instalador.exe
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\bin\Debug\Instalador.pdb
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\bin\Debug\MaterialSkin.dll
+C:\Users\Dell\Desktop\ProjetosInclude\Instalador\InstaladorInclude\Instalador\obj\Debug\Instalador.csproj.CopyComplete
